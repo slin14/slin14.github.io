@@ -38,9 +38,6 @@
 - [EGBC Innovation Magazine Feature](https://user-yinucac.cld.bz/INNOVATION-July-August-20201/20/)
 - [Surrey youth embrace STEM challenge at Surrey Libraries Headed Up by Sophie Lin](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
 
----
-
-
 
 
 ---
