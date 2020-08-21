@@ -27,7 +27,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Teen Library Council - Surrey Youth STEM Challenge](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -36,7 +36,6 @@
 
 - [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
 - [EGBC Innovation Magazine Feature](https://user-yinucac.cld.bz/INNOVATION-July-August-20201/20/)
-- [Surrey youth embrace STEM challenge at Surrey Libraries Headed Up by Sophie Lin](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
 
 
 
