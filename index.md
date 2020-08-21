@@ -5,7 +5,7 @@
 ### Technical Projects 
 
 [Rhino - Unmanned Ground Vehicle](/rhino)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CondorRhino.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
