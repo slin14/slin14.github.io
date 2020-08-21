@@ -7,30 +7,12 @@
 * Features: Innovative tracked, remote-controlled, lightweight and compact design, complete with PWM circuit containing first-person video camera and transmitter, receiver, motors, remote-controlled switch, and lasers
 * Result/Status: Project complete and implemented. Currently going through redesign for the 2021 Unmanned Systems Canada competition.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Technical Development Summary**
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+* Key Skills Developed: Rapid Prototyping, Project Management, Mechanical Design with Integrated Electronics, 3D Modelling, Design Optimization through Prototyping, 3D Printing, Laser Cutting, Materials Selection, Hand Tools
+* Key Challenges: PWM signal mixing for bidirectional remote control, payload and aircraft system integration
+* Primary Software Used: OnShape and Solidworks
+* Manufacturing Methods Used: FDM 3D Printing, Laser Cutting, Hand Tools, Waterjet Cutting
+* Materials Used: PLA, TPU, Plywood, Aluminum
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
