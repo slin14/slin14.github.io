@@ -1,3 +1,7 @@
-## This can be your internal website page / project page
+## Surrey Robotics Innovation Lab
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I founded Surrey Robotics Innovation Lab (SRIL) in February 2019. It is my vision for creating a centre of innovation to empower youth through STEM education and innovation projects.
+
+**[SRIL Website](https://surreyroboticsinnovationlab.ca/)**
+
+**[SRIL YouTube Channel](https://www.youtube.com/channel/UCf9C0yh0PsJl3l--oJ0MxeQ)**
