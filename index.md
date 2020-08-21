@@ -19,7 +19,7 @@
 
 ### Leadership Projects 
 
-[Summer 2020 STEM Workshop Series - Surrey Robotics Innovation Lab](/pdf/SRIL2020workshops.pdf)
+[Summer 2020 STEM Workshop Series](/pdf/SRIL2020workshops.pdf) - [Surrey Robotics Innovation Lab](/SRIL)
 <img src="images/SRIL2020.png?raw=true"/>
 
 ---
