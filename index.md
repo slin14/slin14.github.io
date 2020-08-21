@@ -19,7 +19,7 @@
 
 ### Leadership Projects 
 
-[Project 1 Title](/sample_page)
+[Summer 2020 STEM Workshop Series - Surrey Robotics Innovation Lab](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Teen Library Council - Surrey Youth STEM Challenge](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
+[Surrey Youth STEM Challenge - Teen Library Council](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
