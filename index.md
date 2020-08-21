@@ -8,8 +8,8 @@
 <img src="images/CondorRhino.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[2019 VEX Robotics Turning Point Competition](/VEX2019)
+<img src="images/VEX2019?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -21,10 +21,6 @@
 
 [Summer 2020 STEM Workshop Series](/pdf/SRIL2020workshops.pdf) - [Surrey Robotics Innovation Lab](/SRIL)
 <img src="images/SRIL2020.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Surrey Youth STEM Challenge - Teen Library Council](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
