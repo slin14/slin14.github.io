@@ -9,7 +9,7 @@
 
 ---
 [2019 VEX Robotics Turning Point Competition](/VEX2019)
-<img src="images/VEX2019?raw=true"/>
+<img src="images/VEX2019.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
