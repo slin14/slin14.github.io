@@ -4,7 +4,7 @@
 
 ### Technical Projects 
 
-[Project 1 Title](/sample_page)
+[Rhino - Unmanned Ground Vehicle](/rhino)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
