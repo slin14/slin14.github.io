@@ -3,11 +3,11 @@ logo: "/images/IMG_3052.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a UBC mechanical engineering student specializing in Mechatronics. 
   <br><br>
-  <h2 href="projects">Projects</a>
+  <h4 href="projects">Projects</h4>
   <br><br>
-  <h2 href="about">About Me</a>
+  <h4 href="about">About Me</h4>
   <br><br>
-  <h2 href="contact">Contact</a>
+  <h4 href="contact">Contact</h4>
   <br><br>
   <a>
 theme: jekyll-theme-minimal
