@@ -4,6 +4,10 @@
 
 ### Projects
 
+[Robotics Library Model of the PR2](/pr2)
+<img src="PR2.png?raw=true"/>
+
+---
 [Rhino - Unmanned Ground Vehicle](/rhino)
 <img src="images/CondorSquare.HEIC?raw=true"/>
 
