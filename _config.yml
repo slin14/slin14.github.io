@@ -1,11 +1,13 @@
 title: Sophie Lin # your name (or website title) here
 logo: "/images/IMG_3052.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a UBC mechanical engineering student specializing in Mechatronics. On top of a full course load, I work as a robotics researcher at UBC CARIS Lab. I am also involved in UBC Unmanned Aircraft Systems, Women in Engineering UBC, and Surrrey Robotics Innovation Lab, a community orgnanization I founded.
-  <br><br>
+  I am a UBC mechanical engineering student specializing in Mechatronics. 
+  <br>
+  <a href="https://www.sophielin.ca/about/">More about me</a><br>
+  <br>
   sophie.lin@ubc.ca 
   <br><br>
-  <a href="https://www.linkedin.com/in/sophie-lin-profile/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/sophie-lin-profile/">View My LinkedIn Profile</a><br>
   <a href="https://gitlab.com/slin14/">View My GitLab Profile</a>
   
 theme: jekyll-theme-minimal
