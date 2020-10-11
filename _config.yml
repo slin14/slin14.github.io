@@ -5,9 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="about.md">More about me</a><br>
   <br>
-  [sophie.lin@ubc.ca](mailto:sophie.lin@ubc.ca) 
+  <a href="mailto:sophie.lin@ubc.ca">sophie.lin@ubc.ca</a><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/sophie-lin-profile/">View My LinkedIn Profile</a><br><br>
+  <a href="https://www.linkedin.com/in/sophie-lin-profile/">View My LinkedIn Profile</a>
+  <br><br>
   <a href="https://gitlab.com/slin14/">View My GitLab Profile</a>
   
 theme: jekyll-theme-minimal
