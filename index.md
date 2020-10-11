@@ -1,8 +1,8 @@
-## Portfolio
+## Hi! Welcome to my website
 
 ---
 
-### Technical Projects 
+### Projects
 
 [Rhino - Unmanned Ground Vehicle](/rhino)
 <img src="images/CondorRhino.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Leadership Projects 
+### About Me
 
 [Summer 2020 STEM Workshop Series](/pdf/SRIL2020workshops.pdf) - [Surrey Robotics Innovation Lab](/SRIL)
 <img src="images/SRIL2020.png?raw=true"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### Features
+### Contact
 
 - [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
 - [EGBC Innovation Magazine Feature](https://user-yinucac.cld.bz/INNOVATION-July-August-20201/20/)
