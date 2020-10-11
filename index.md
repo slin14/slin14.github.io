@@ -2,7 +2,7 @@
 
 ---
 
-### Projects {: id="projects" }
+### Projects
 
 [Robotics Library Model of the PR2](/pr2)
 <img src="images/PR2.png?raw=true"/>
