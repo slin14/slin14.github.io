@@ -5,7 +5,7 @@
 ### Projects
 
 [Rhino - Unmanned Ground Vehicle](/rhino)
-<img src="images/CondorRhino.png?raw=true"/>
+<img src="images/IMG_3161.HEIC?raw=true"/>
 
 ---
 [2019 VEX Robotics Turning Point Competition](/VEX2019)
