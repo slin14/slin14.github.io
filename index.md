@@ -1,4 +1,4 @@
-## Hi! Welcome to my website
+## Welcome! This is where I document my projects and experiences
 
 ---
 
