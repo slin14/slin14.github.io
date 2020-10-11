@@ -5,11 +5,11 @@
 ### Projects
 
 [Robotics Library Model of the PR2](/pr2)
-<img src="PR2.png?raw=true"/>
+<img src="images/PR2.png?raw=true"/>
 
 ---
 [Rhino - Unmanned Ground Vehicle](/rhino)
-<img src="images/CondorSquare.HEIC?raw=true"/>
+<img src="images/CondorSquare.heicC?raw=true"/>
 
 ---
 [2019 VEX Robotics Turning Point Competition](/VEX2019)
