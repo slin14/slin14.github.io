@@ -4,27 +4,32 @@
 
 ### Technical Projects 
 
-[Rhino - Unmanned Ground Vehicle](/rhino)
-<img src="images/CondorRhino.png?raw=true"/>
+
+| <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="500"/> </a>      | <a href="/rhino"> Rhino - Unmanned Ground Vehicle <img src="images/CondorSquare.heic" width="500"/> </a>       | <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="500"/> </a>       |
 
 ---
-[2019 VEX Robotics Turning Point Competition](/VEX2019)
-<img src="images/VEX2019.png?raw=true"/>
+<a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="500"/> </a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="/rhino"> Rhino - Unmanned Ground Vehicle <img src="images/CondorSquare.heic" width="500"/> </a>
+
+---
+<a href="/VEX2019"> 2019 VEX Robotics Turning Point Competition <img src="images/VEX2019.png" width="500"/> </a>
 
 ---
 
 ### Community Projects 
 
-[Summer 2020 STEM Workshop Series](/pdf/SRIL2020workshops.pdf) - [Surrey Robotics Innovation Lab](/SRIL)
-<img src="images/SRIL2020.png?raw=true"/>
+<a href="/SRIL">
+   Surrey Robotics Innovation Lab
+   <img src="images/SRIL2020.png" width="500"/> 
+</a>
 
 ---
-[Surrey Youth STEM Challenge - Teen Library Council](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="/TLC">
+   Teen Library Council
+   <img src="images/TLC/tlc1.png" width="500"/> 
+</a>
 
 ---
 
