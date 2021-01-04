@@ -17,6 +17,6 @@
 
 <img src="images/Rhino/sketch.jpg?raw=true"/>
 <img src="images/rhino/early-prototypes.png?raw=true"/>
-<img src="images/rhino/cad.png?raw=true"/>
+<img src="images/Rhino/CAD.png?raw=true"/>
 <img src="images/rhino/poc.png?raw=true"/>
 <img src="images/rhino/chassis.png?raw=true"/>
