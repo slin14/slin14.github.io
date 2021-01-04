@@ -6,12 +6,12 @@
 ### Projects
 
 <a href="/pr2">
-   <img src="images/PR2.png"> alt="Robotics Library Model of the PR2"
+   <img src="images/PR2.png"> <alt="Robotics Library Model of the PR2">
 </a>
 
 ---
 <a href="/rhino">
-   <img src="images/CondorSquare.heic"> alt="Rhino - Unmanned Ground Vehicle"
+   <img src="images/CondorSquare.heic"> <alt="Rhino - Unmanned Ground Vehicle">
 </a>
 
 ---
