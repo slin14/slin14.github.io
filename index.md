@@ -8,7 +8,11 @@
 [Robotics Library Model of the PR2](/pr2)
 <img src="images/PR2.png?raw=true"/>
 
-[![Robotics Library Model of the PR2][images/PR2.png?raw=true]][/pr2]
+[![Robotics Library Model of the PR2][images/PR2.png]][/pr2]
+
+<img src="images/PR2.png"
+     alt="Robotics Library Model of the PR2"
+     style="float: left; margin-right: 10px;" />
 
 ---
 [Rhino - Unmanned Ground Vehicle](/rhino)
