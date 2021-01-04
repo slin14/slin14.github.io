@@ -15,9 +15,11 @@
 * Manufacturing Methods Used: FDM 3D Printing, Laser Cutting, Hand Tools, Waterjet Cutting
 * Materials Used: PLA, TPU, Plywood, Aluminum
 
-| <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/> | Sketch |
-| <img src="images/Rhino/Early Prototypes.PNG" alt="Early Prototypes" width="200"/> | Early Prototypes |
-
+<p float="left">
+  <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/>
+  <img src="images/Rhino/Early Prototypes.PNG" alt="Early Prototypes" width="200"/>
+  <img src="images/Rhino/CAD.png" alt="CAD Mockup" width="200"/>
+</p>
 
 <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/>
 <img src="images/Rhino/Early Prototypes.PNG" alt="Early Prototypes" width="200"/>
