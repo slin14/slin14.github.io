@@ -9,7 +9,7 @@
 <img src="images/PR2.png?raw=true"/>
 
 <a href="/pr2">
-   <img src="imapges/PR2.png">
+   <img src="images/PR2.png">
 </a>
 
 ---
