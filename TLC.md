@@ -12,8 +12,8 @@
 
 <img src="images/TLC/tlc.png"/>
 
-[Media Feature] (https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
+[Media Feature](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
 
-[Facebook Page] (https://www.facebook.com/tlcfleetwood/)
+[Facebook Page](https://www.facebook.com/tlcfleetwood/)
 
-[Instagram Page] (https://www.instagram.com/tlcfleetwood/)
+[Instagram Page](https://www.instagram.com/tlcfleetwood/)
