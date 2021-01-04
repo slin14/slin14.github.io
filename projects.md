@@ -8,6 +8,9 @@
 | <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="300"/> </a>      | <a href="/rhino"> Rhino - Unmanned Ground Vehicle <img src="images/CondorSquare.heic" width="300"/> </a>       | <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="300"/> </a>       |
 
 ---
+| ![alt text](images/PR2.png "Robotics Library Model of the PR2")     | ![alt text](images/CondorSquare.heic "Rhino - Unmanned Ground Vehicle")       | ![alt text](images/CondorSquare.heic "Rhino - Unmanned Ground Vehicle")       |
+
+---
 <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="500"/> </a>
 
 ---
