@@ -6,17 +6,18 @@
 ### Projects
 
 <a href="/pr2">
-   <img src="images/PR2.png"> <alt="Robotics Library Model of the PR2">
+   <img src="images/PR2.png"> Robotics Library Model of the PR2
 </a>
 
 ---
 <a href="/rhino">
-   <img src="images/CondorSquare.heic"> <alt="Rhino - Unmanned Ground Vehicle">
+   <img src="images/CondorSquare.heic"> Rhino - Unmanned Ground Vehicle
 </a>
 
 ---
-[2019 VEX Robotics Turning Point Competition](/VEX2019)
-<img src="images/VEX2019.png?raw=true"/>
+<a href="/VEX2019">
+   <img src="images/VEX2019.png"> Rhino - 2019 VEX Robotics Turning Point Competition
+</a>
 
 ---
 
