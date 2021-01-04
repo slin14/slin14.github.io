@@ -10,8 +10,9 @@
 </a>
 
 ---
-[Rhino - Unmanned Ground Vehicle](/rhino)
-<img src="images/CondorSquare.heic?raw=true"/>
+<a href="/rhino">
+   <img src="images/CondorSquare.heic"> alt="Rhino - Unmanned Ground Vehicle"
+</a>
 
 ---
 [2019 VEX Robotics Turning Point Competition](/VEX2019)
