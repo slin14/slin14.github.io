@@ -8,6 +8,8 @@
 [Robotics Library Model of the PR2](/pr2)
 <img src="images/PR2.png?raw=true"/>
 
+[![Robotics Library Model of the PR2][images/PR2.png?raw=true]][/pr2]
+
 ---
 [Rhino - Unmanned Ground Vehicle](/rhino)
 <img src="images/CondorSquare.heic?raw=true"/>
