@@ -6,29 +6,34 @@
 ### Projects
 
 <a href="/pr2">
-   <img src="images/PR2.png"> Robotics Library Model of the PR2
+   Robotics Library Model of the PR2
+   <img src="images/PR2.png">
 </a>
 
 ---
 <a href="/rhino">
-   <img src="images/CondorSquare.heic"> Rhino - Unmanned Ground Vehicle
+   Rhino - Unmanned Ground Vehicle
+   <img src="images/CondorSquare.heic"> 
 </a>
 
 ---
 <a href="/VEX2019">
-   <img src="images/VEX2019.png"> Rhino - 2019 VEX Robotics Turning Point Competition
+   2019 VEX Robotics Turning Point Competition
+   <img src="images/VEX2019.png"> 
 </a>
 
 ---
 
 ### Community Impact
 <a href="/SRIL">
-   <img src="images/SRIL2020.png"> Surrey Robotics Innovation Lab
+   Surrey Robotics Innovation Lab
+   <img src="images/SRIL2020.png"> 
 </a>
 
 ---
 <a href="https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/">
-   <img src="images/dummy_thumbnail.jpg"> Surrey Youth STEM Challenge - Teen Library Council
+   Surrey Youth STEM Challenge - Teen Library Council
+   <img src="images/dummy_thumbnail.jpg"> 
 </a>
 
 ---
