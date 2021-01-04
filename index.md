@@ -5,11 +5,8 @@
 
 ### Projects
 
-[Robotics Library Model of the PR2](/pr2)
-<img src="images/PR2.png?raw=true"/>
-
 <a href="/pr2">
-   <img src="images/PR2.png">
+   <img src="images/PR2.png"> alt="Robotics Library Model of the PR2"
 </a>
 
 ---
