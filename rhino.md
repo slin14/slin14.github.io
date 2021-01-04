@@ -17,7 +17,7 @@
 * Manufacturing Methods Used: FDM 3D Printing, Laser Cutting, Hand Tools, Waterjet Cutting
 * Materials Used: PLA, TPU, Plywood, Aluminum
 
-
+---
 ### Design Process
 
 **Payload Deployment System**
