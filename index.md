@@ -33,7 +33,7 @@
 ---
 <a href="/TLC">
    Teen Library Council
-   <img src="images/TLC/tlc.png"> 
+   <img src="images/TLC/tlc1.png"> 
 </a>
 
 ---
