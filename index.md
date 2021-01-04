@@ -31,9 +31,9 @@
 </a>
 
 ---
-<a href="https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/">
-   Surrey Youth STEM Challenge - Teen Library Council
-   <img src="images/dummy_thumbnail.jpg"> 
+<a href="/TLC">
+   Teen Library Council
+   <img src="images/TLC/tlc.png"> 
 </a>
 
 ---
