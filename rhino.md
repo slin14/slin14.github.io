@@ -1,7 +1,7 @@
 ## Rhino - Unmanned Ground Vehicle
 
 ### Project Summary:
-* Affiliated Group: UBC Unmanned Aircraft Systems (UBC UAS)
+* Affiliated Group: UBC Unmanned Aircraft Systems ([UBC UAS](https://www.ubcuas.com/))
 * Purpose: To develop a fully autonomous unmanned ground vehicle (UGV) capable of retrieving medical packages identified by QR codes and delivering the packages to the drone. Additionally, develop the mechanisms to secure the UGV and packages to the drone during flight and release them at the landing sites. All objectives needed to be accomplished while maintaining a lightweight design and meeting the space and aerodynamic requirements of the payload system of the aircraft.
 * Team size: 5
 * Features: Innovative tracked, remote-controlled, lightweight and compact design, complete with PWM circuit containing first-person video camera and transmitter, receiver, motors, remote-controlled switch, and lasers
