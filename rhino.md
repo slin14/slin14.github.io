@@ -21,6 +21,9 @@
   <img src="images/Rhino/CAD.png" alt="CAD Mockup" width="200"/>
 </p>
 
+| Sketch      | <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/>       |
+| Early Prototypes   | <img src="images/Rhino/Early Prototypes.PNG" alt="Early Prototypes" width="200"/>        |
+
 <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/>
 <img src="images/Rhino/Early Prototypes.PNG" alt="Early Prototypes" width="200"/>
 <img src="images/Rhino/CAD.png" alt="CAD Mockup" width="200"/>
