@@ -16,7 +16,7 @@
 * Materials Used: PLA, TPU, Plywood, Aluminum
 
 <img src="images/Rhino/Sketch.jpg?raw=true"/>
-<img src="images/Rhino/Early-Prototypes.PNG?raw=true"/>
+<img src="images/Rhino/Early Prototypes.PNG?raw=true"/>
 <img src="images/Rhino/CAD.png?raw=true"/>
 <img src="images/Rhino/POC.png?raw=true"/>
-<img src="images/Rhino/chassis.PNG?raw=true"/>
+<img src="images/Rhino/Chassis.PNG?raw=true"/>
