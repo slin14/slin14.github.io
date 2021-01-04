@@ -22,13 +22,14 @@
 ---
 
 ### Community Impact
-
-[Summer 2020 STEM Workshop Series](/pdf/SRIL2020workshops.pdf) - [Surrey Robotics Innovation Lab](/SRIL)
-<img src="images/SRIL2020.png?raw=true"/>
+<a href="/SRIL">
+   <img src="images/SRIL2020.png"> Surrey Robotics Innovation Lab
+</a>
 
 ---
-[Surrey Youth STEM Challenge - Teen Library Council](https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://voiceonline.com/surrey-youth-embrace-stem-challenge-at-surrey-libraries/">
+   <img src="images/dummy_thumbnail.jpg"> Surrey Youth STEM Challenge - Teen Library Council
+</a>
 
 ---
 
