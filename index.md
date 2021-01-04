@@ -1,5 +1,5 @@
 # Welcome! 
-## This is where I document my projects and experiences
+## I document my projects and experiences here
 
 ---
 
