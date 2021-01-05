@@ -19,7 +19,7 @@
 
 | <a href="/SRIL"> Robotics Today for Grade 9 Girls <img src="images/projects/gu.png" width="300"/> </a>      | <a href="/TLC"> Surrey Youth Leadership Seminar <img src="images/projects/leadership.jpg" width="300"/> </a>       | <a href="/TLC"> Surrey Youth STEM Challenge <img src="images/projects/stem.png" width="300"/> </a>       |
 
-| <a href="/TLC"> Spring into Art <img src="images/projects/art.jpg" width="300"/> </a>      | <a href="/TLC"> Mental Health and Puppies <img src="images/projects/mental-health.jpg" width="300"/> </a>       | <a href="/TLC"> Teen Murder Mystery <img src="images/projects/murder.png" width="300"/> </a>       |
+| <a href="/TLC"> Spring into Art <img src="images/projects/art.jpg" width="300"/> </a>      | <a href="/TLC"> Mental Health and Puppies <img src="images/projects/mental-health.jpg" width="300"/> </a>       | <a href="/TLC"> Teen Murder Mystery <img src="images/projects/murder.jpg" width="300"/> </a>       |
 
 ---
 
