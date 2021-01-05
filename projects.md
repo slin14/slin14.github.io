@@ -9,7 +9,7 @@
 
 | <a href="/vex2019"> 2019 VEX Robotics Turning Point Competition <img src="images/projects/VEX2019.png" width="300"/> </a>      | <a href="/vex2019"> 2018 VEX Robotics In the Zone Competition <img src="images/projects/VEX2018.png" width="300"/> </a>       | <a href="/vex2019"> 2017 VEX Robotics Starstruck Competition <img src="images/projects/VEX2017.jpg" width="300"/> </a>       |
 
-| <a href="/pedestrian"> Vehicle Detection for Pedestrian Safety <img src="images/projects/pedestrian.png" width="300"/> </a>      | <a href="/reversi"> Reversi Game in C++ <img src="images/projects/reversi.png" width="300"/> </a>       | <a href="/shad"> Line-Following and Toy Gun Firing Robot <img src="images/projects/shad.png" width="300"/> </a>       |
+| <a href="/pedestrian"> Vehicle Detection for Pedestrian Safety <img src="images/projects/pedestrian.png" width="300"/> </a>      | <a href="/reversi"> Reversi Game: Human vs Computer <img src="images/projects/reversi.png" width="300"/> </a>       | <a href="/shad"> Line-Following and Toy Gun Firing Robot <img src="images/projects/shad.png" width="300"/> </a>       |
 
 ---
 
