@@ -15,16 +15,9 @@
 
 ### Community Projects 
 
-<a href="/SRIL">
-   Surrey Robotics Innovation Lab
-   <img src="images/SRIL2020.png" width="500"/> 
-</a>
+| <a href="/SRIL"> UAV Mechatronics Engineering <img src="images/projects/uav.png" width="300"/> </a>      | <a href="/SRIL"> 3D Printing and CAD <img src="images/projects/3d.png" width="300"/> </a>       | <a href="/SRIL"> Leadership in EDI <img src="images/projects/edi.png" width="300"/> </a>       |
 
----
-<a href="/TLC">
-   Teen Library Council
-   <img src="images/TLC/tlc1.png" width="500"/> 
-</a>
+| <a href="/TLC"> UAV Mechatronics Engineering <img src="images/projects/uav.png" width="300"/> </a>      | <a href="/TLC"> 3D Printing and CAD <img src="images/projects/3d.png" width="300"/> </a>       | <a href="/TLC"> Leadership in EDI <img src="images/projects/edi.png" width="300"/> </a>       |
 
 ---
 
