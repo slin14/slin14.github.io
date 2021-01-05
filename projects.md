@@ -11,6 +11,9 @@
 
 | <a href="/pedestrian"> Vehicle Detection for Pedestrian Safety <img src="images/projects/pedestrian.png" width="300"/> </a>      | <a href="/reversi"> Reversi Game: Human vs Computer <img src="images/projects/reversi.png" width="300"/> </a>       | <a href="/shad"> Line-Following and Toy Gun Firing Robot <img src="images/projects/shad.png" width="300"/> </a>       |
 
+
+
+
 ---
 
 ### Community Projects 
