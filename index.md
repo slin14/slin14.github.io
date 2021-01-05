@@ -3,7 +3,7 @@
 
 ---
 
-### Projects
+### Featured Projects
 
 <a href="/pr2">
    Robotics Library Model of the PR2
