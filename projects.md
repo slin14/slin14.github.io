@@ -7,17 +7,7 @@
 
 | <a href="/pr2"> Robotics Library Model of the PR2 <img src="images/projects/PR2.png" width="300"/> </a>      | <a href="/rhino"> Rhino - Unmanned Ground Vehicle <img src="images/projects/rhino.png" width="300"/> </a>       | <a href="/savee"> SaveE - Household Energy Conservation App <img src="images/projects/save.png" width="300"/> </a>       |
 
----
-| ![alt text](images/PR2.png "Robotics Library Model of the PR2")     | ![alt text](images/CondorSquare.heic "Rhino - Unmanned Ground Vehicle")       | ![alt text](images/CondorSquare.heic "Rhino - Unmanned Ground Vehicle")       |
-
----
-<a href="/pr2"> Robotics Library Model of the PR2 <img src="images/PR2.png" width="500"/> </a>
-
----
-<a href="/rhino"> Rhino - Unmanned Ground Vehicle <img src="images/CondorSquare.heic" width="500"/> </a>
-
----
-<a href="/VEX2019"> 2019 VEX Robotics Turning Point Competition <img src="images/VEX2019.png" width="500"/> </a>
+| <a href="/vex2019"> 2019 VEX Robotics Turning Point Competition <img src="images/projects/VEX2019.png" width="300"/> </a>      | <a href="/vex2019"> 2018 VEX In the Zone Competition <img src="images/projects/VEX2018.png" width="300"/> </a>       | <a href="/vex2019"> 2017 VEX Robotics Starstruck Competition <img src="images/projects/VEX2017.jpg" width="300"/> </a>       |
 
 ---
 
