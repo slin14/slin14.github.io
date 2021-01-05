@@ -17,7 +17,7 @@
 
 | <a href="/SRIL"> UAV Mechatronics Engineering <img src="images/projects/uav.png" width="300"/> </a>      | <a href="/SRIL"> 3D Printing and CAD <img src="images/projects/3d.png" width="300"/> </a>       | <a href="/SRIL"> Leadership in EDI <img src="images/projects/edi.png" width="300"/> </a>       |
 
-| <a href="/TLC"> UAV Mechatronics Engineering <img src="images/projects/uav.png" width="300"/> </a>      | <a href="/TLC"> 3D Printing and CAD <img src="images/projects/3d.png" width="300"/> </a>       | <a href="/TLC"> Leadership in EDI <img src="images/projects/edi.png" width="300"/> </a>       |
+| <a href="/SRIL"> Robotics Today for Grade 9 Girls <img src="images/projects/gu.png" width="300"/> </a>      | <a href="/TLC"> Surrey Youth Leadership Seminar <img src="images/projects/leadership.png" width="300"/> </a>       | <a href="/TLC"> Surrey Youth STEM Challenge <img src="images/projects/leadership.png" width="300"/> </a>       |
 
 ---
 
