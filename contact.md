@@ -1,6 +1,6 @@
 ## Contact
 
-Email: [sophie.lin@ubc.ca](mailto:sophie.lin@ubc.ca)
+Email: [ubcsophielin@gmail.com](mailto:ubcsophielin@gmail.com)
 
 Linkedin: [sophie-lin-profile](https://www.linkedin.com/in/sophie-lin-profile/)
 
