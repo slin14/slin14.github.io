@@ -44,3 +44,10 @@ I modeled torque and energy draw on Excel to determine the feasibility of motors
 </p>
 
 
+**Electrical Design and Testing**
+I designed 40% of the electrical circuit, including voltage dividers to decrease the voltage for the lasers and RC switch to not exceed their maximum voltage ratings. I tested the entire electrical circuit. After discovering issues with the signal, I investigated using the multimeter and oscilloscope. The problem was associated with irregular PWM signals from a faulty receiver; I replaced the receiver and resolved the issue.
+<p float="left">
+  <img src="images/Rhino/Circuit.pngg" alt="UGV Circuit" width="200"/>
+  <img src="images/Rhino/Elec Issue.jpg" alt="Electrical Issue" width="200"/>
+</p>
+
