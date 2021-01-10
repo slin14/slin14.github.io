@@ -8,8 +8,8 @@
 
 I'm from Vancouver BC, and my hobbies include photography, oil painting, basketball, oboe, and skiing.
 <a href="/images/photo/Vancouver.JPG">
-   *White Rock Pier - by Sophie Lin*
-   <img src="images/Photo/Vancouver.JPG" width="600"/>
+  <img src="images/Photo/Vancouver.JPG" width="600"/>
+  *White Rock Pier - by Sophie Lin*
 </a>
 
 
