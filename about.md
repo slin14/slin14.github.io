@@ -11,6 +11,7 @@ I'm from Vancouver BC, and my hobbies include photography, oil painting, basketb
 <img src="/images/Photo/Vancouver.JPG" width=600/>
 *Stanely Park, Vancouver BC - by Sophie Lin*
 
+---
 
 ### Links
 
