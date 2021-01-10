@@ -1,7 +1,7 @@
 # Welcome! 
 ## I document my projects and experiences here
 
-<img src="/images/me.JPG" width=600/>
+<img src="/images/me.JPG"/>
 
 ---
 
