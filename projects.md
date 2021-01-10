@@ -24,9 +24,3 @@
 
 | <a href="/TLC"> Spring into Art Series <img src="images/projects/art.jpg" width="300"/> </a>      | <a href="/TLC"> Mental Health and Puppies <img src="images/projects/mental-health.jpg" width="300"/> </a>       | <a href="/TLC"> Surrey Teen Murder Mystery <img src="images/projects/murder.jpg" width="300"/> </a>       |
 
----
-
-### Features
-
-- [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
-- [EGBC Innovation Magazine Feature](https://user-yinucac.cld.bz/INNOVATION-July-August-20201/20/)
