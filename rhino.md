@@ -53,7 +53,9 @@ I designed 40% of the electrical circuit, including voltage dividers to decrease
 
 **Remote Control Programming with Microcontroller**
 I programmed the RC control on an Arduino Nano to map the 3 PWM input channels from the receiver to the 2 PWM output channels to the motor controllers. This enabled full bidirectional control with pivot and differential steering.
+<p float="left">
   <img src="images/Rhino/Testing.jpg" alt="UGV Circuit" width="400"/>
+</p>
 
 **System Integration and Mission Testing**
 I led my sub-team to test the system by simulating the mission objectives. We performed tests including payload deployment and retrieval, flight, and endurance out of line of sight using only the first-person video system for visual guidance.
