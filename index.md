@@ -1,6 +1,6 @@
 # Welcome! 
 
-## I document my projects and experiences here
+## I document my projects and experiences here.
 
 <img src="/images/me.JPG"/>
 
@@ -14,8 +14,8 @@
 
 ### Media Features
 
-- [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
 - [EGBC Innovation Magazine Feature](https://user-yinucac.cld.bz/INNOVATION-July-August-20201/20/)
+- [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
 
 
 
