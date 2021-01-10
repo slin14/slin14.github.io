@@ -18,8 +18,28 @@
 ### RL Model of PR2 Development Process
 
 **Currently Under Construction**
+
 Please come back later
+
 <p float="left">
   <img src="images/Rhino/Sketch.jpg" alt="Sketch" width="200"/>
   <img src="images/Rhino/POC.png" alt="Proof of Concept" width="200"/>
+</p>
+
+
+---
+---
+### Technical Communication Project Summary
+
+* Key Skills Developed: Technical Communication, Website Design and Development, Research, Citation, Documentation
+* Primary Software Used: WordPress, SharePoint, Wiki, Common File Types
+
+---
+### SharePoint CARIS Lab Wiki
+
+**Currently Under Construction**
+Please come back later
+<p float="left">
+  <img src="images/CARIS/wiki.png" alt="New CARIS Lab Wiki" width="200"/>
+  <img src="images/CARIS/pages.png" alt="Wiki Pages" width="200"/>
 </p>
