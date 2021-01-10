@@ -7,11 +7,9 @@
 
 
 I'm from Vancouver BC, and my hobbies include photography, oil painting, basketball, oboe, and skiing.
-<a href="/images/photo/Vancouver.JPG">
-  <img src="images/Photo/Vancouver.JPG" width="600"/>
-  *White Rock Pier - by Sophie Lin*
-</a>
 
+<img src="/images/photo/Vancouver.JPG" width=600/>
+*Stanely Park, Vancouver BC - by Sophie Lin*
 
 
 ### Links
