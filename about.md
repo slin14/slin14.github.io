@@ -6,6 +6,14 @@
 | <img src="images/about/me1.jpg" width="170"/>     | <img src="images/about/me2.jpg" width="170"/>       | <img src="images/about/me3.jpg" width="170"/>     |
 
 
+I'm from Vancouver BC, and my hobbies include photography, oil painting, basketball, oboe, and skiing.
+<a href="/images/photo/Vancouver.JPG">
+   *White Rock Pier - by Sophie Lin*
+   <img src="images/photo/Vancouver.JPG" width="600"/>
+</a>
+
+
+
 ### Links
 
 - [What is Robotics? With Engineering Student Sophie Lin - UBC Geering Up](https://www.youtube.com/watch?v=LW0tiQdmUns)
