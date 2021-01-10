@@ -8,7 +8,7 @@
 
 I'm from Vancouver BC, and my hobbies include photography, oil painting, basketball, oboe, and skiing.
 
-<img src="/images/photo/Vancouver.JPG" width=600/>
+<img src="/images/Photo/Vancouver.JPG" width=600/>
 *Stanely Park, Vancouver BC - by Sophie Lin*
 
 
