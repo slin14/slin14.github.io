@@ -29,7 +29,7 @@ Please come back later
 
 ---
 ---
-### Technical Communication Project Summary
+### Technical Communication Projects Summary
 
 * Key Skills Developed: Technical Communication, Website Design and Development, Research, Citation, Documentation
 * Primary Software Used: WordPress, SharePoint, Wiki, Common File Types
