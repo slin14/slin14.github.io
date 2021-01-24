@@ -2,7 +2,7 @@
 
 Email: [ubcsophielin@gmail.com](mailto:ubcsophielin@gmail.com)
 
-Linkedin: [sophie-lin-profile](https://www.linkedin.com/in/sophie-lin-profile/)
+Linkedin: [ubcsophielin](https://www.linkedin.com/in/ubcsophielin/)
 
 GitHub: [slin14](https://github.com/slin14)
 
