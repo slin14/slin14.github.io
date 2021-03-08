@@ -4,4 +4,4 @@
 
 Please see this project on hackathon project page [here](https://devpost.com/software/cmdf2020).
 
-<img src="images/projects/save.png?raw=true"/>
+<img src="images/projects/savee_app.png?raw=true"/>
