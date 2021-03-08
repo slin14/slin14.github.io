@@ -1,4 +1,4 @@
-## Women in STEM: Custom API and Website of Achievements of Women in STEM Throughout History
+## Custom API and Website of Achievements of Women in STEM Throughout History
 
 **Under development** 
 
